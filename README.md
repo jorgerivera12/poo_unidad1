@@ -83,7 +83,7 @@ Como se muestra en la imagen, el programa imprime los detalles de cada contenido
 
 ### 🧪 Comandos usados en terminal
 
-![Comandos ejecutados](capturas/comandos_terminal.png)
+![Comandos ejecutados](capturas/comandos.png)
 
 Esta imagen muestra los comandos `javac` y `java` usados para compilar y ejecutar el programa manualmente desde terminal.
 
