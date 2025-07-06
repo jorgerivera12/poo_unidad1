@@ -77,13 +77,13 @@ java -cp bin poo.PruebaAudioVisual
 
 ### Ejecución del programa desde terminal
 
-![Ejecución en terminal](capturas/ejecucion_terminal.png)
+![Ejecución en terminal](capturas/ejecucion_terminal_image.png)
 
 Como se muestra en la imagen, el programa imprime los detalles de cada contenido audiovisual.
 
 ### 🧪 Comandos usados en terminal
 
-![Comandos ejecutados](capturas/comandos.png)
+![Comandos ejecutados](capturas/comandos_image.png)
 
 Esta imagen muestra los comandos `javac` y `java` usados para compilar y ejecutar el programa manualmente desde terminal.
 
